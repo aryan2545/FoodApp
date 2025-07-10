@@ -81,7 +81,7 @@ To run the app, you will need:
 
 
 **📸 Console Preview**
-![image alt](https://github.com/user-attachments/assets/e6e51014-e050-4ffd-abc1-9416c3a25f54" )
+![image alt](https://github.com/user-attachments/assets/e6e51014-e050-4ffd-abc1-9416c3a25f54 )
 ![image alt](https://github.com/user-attachments/assets/4f23782a-4452-4f41-b9aa-d2532a042a11)
 
 
