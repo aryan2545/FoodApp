@@ -4,6 +4,7 @@ A lightweight, console-based Java application for food ordering that supports us
 
 
 
+
 **🚀 Features**
 ✨ User Registration 
 📋 Dynamic Menu loaded from database
@@ -16,9 +17,12 @@ A lightweight, console-based Java application for food ordering that supports us
 
 
 
+
 **🏗️ Project Structure**
 
 ![image alt](https://github.com/Dhirajkajale18/FoodApp/blob/main/structure.png)
+
+
 
 
 
@@ -28,6 +32,7 @@ Java	Console-based Core Java App
 JDBC	Connects Java to PostgresqlSQL
 MySQL	Stores users, menu & orders
 Maven	Dependency & build management
+
 
 
 
@@ -62,6 +67,7 @@ INSERT INTO menu (name, price) VALUES
 
 
 
+
 **🛠️ Requirements**
 To run the app, you will need:
 
@@ -72,9 +78,13 @@ To run the app, you will need:
 
 
 
+
+
 **📸 Console Preview**
-![image alt](<img width="1011" height="673" alt="output1" src="https://github.com/user-attachments/assets/e6e51014-e050-4ffd-abc1-9416c3a25f54" />)
-![image alt](<img width="611" height="828" alt="output2" src="https://github.com/user-attachments/assets/4f23782a-4452-4f41-b9aa-d2532a042a11" />)
+![image alt](https://github.com/user-attachments/assets/e6e51014-e050-4ffd-abc1-9416c3a25f54" )
+![image alt](https://github.com/user-attachments/assets/4f23782a-4452-4f41-b9aa-d2532a042a11)
+
+
 
 
 
@@ -87,9 +97,11 @@ For any questions or issues, feel free to reach out to the developer at:
 
 
 
+
+
 **👨‍💻 other information:**
 Created by:
 
-1).Abdulraheman Mahamad Sayyad
+1)Dhiraj Kajale
 
-2).Amankhan Khalil Pathan
+2)Aryan Deshmukhe
