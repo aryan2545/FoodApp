@@ -18,19 +18,7 @@ A lightweight, console-based Java application for food ordering that supports us
 
 **🏗️ Project Structure**
 
-Copy code
-FoodOrderingApp/
-├── pom.xml
-└── src/
-    └── main/
-        └── java/
-            └── com/
-                └── foodapp/
-                    ├── App.java
-                    ├── DBUtil.java
-                    ├── UserService.java
-                    ├── MenuService.java
-                    └── OrderService.java
+![image alt](https://github.com/Dhirajkajale18/FoodApp/blob/main/structure.png)
 
 
 
@@ -85,8 +73,8 @@ To run the app, you will need:
 
 
 **📸 Console Preview**
-![image alt](<img width="1011" height="673" alt="Screenshot 2025-07-10 140613" src="https://github.com/user-attachments/assets/e6e51014-e050-4ffd-abc1-9416c3a25f54" />)
-![image alt](<img width="611" height="828" alt="Screenshot 2025-07-10 140712" src="https://github.com/user-attachments/assets/4f23782a-4452-4f41-b9aa-d2532a042a11" />)
+![image alt](<img width="1011" height="673" alt="output1" src="https://github.com/user-attachments/assets/e6e51014-e050-4ffd-abc1-9416c3a25f54" />)
+![image alt](<img width="611" height="828" alt="output2" src="https://github.com/user-attachments/assets/4f23782a-4452-4f41-b9aa-d2532a042a11" />)
 
 
 
